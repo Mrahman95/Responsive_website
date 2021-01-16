@@ -5,3 +5,47 @@
  .text{
     margin-top: 100px;
 } 
+.resize{
+    height: 100px;
+}
+.col-md-4 {
+    flex: 0 0 auto;
+    width: 15%;
+    
+}
+#color_1{
+    color: #FABE4C;
+    font-family: 'Bebas Neue', cursive;
+    font-weight: bold;
+    font-size: 80px;
+}
+#color_2{
+    color: #363958;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 80px;
+}
+}
+.para_one{
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    color: #3E3E3E;
+
+}
+.btn_color{
+    background-color: #9BBB1B;
+    color: white;
+}
+.heading_color{
+    font-family: 'Bebas Neue', cursive;
+    font-weight: bold;
+    font-size: 48px;
+    color: #363958;
+}
+.heading_two{
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 24px;
+    color: #363958;
+
+}
+
